@@ -6,7 +6,7 @@ Codes and functions for estimating intensity function of neutrons are stored in 
 2. ‘cvcheck.m’ computes cross validation score to choose optimal smoothing parameter.
 3. ‘penlik.m’ is the function corresponding to the penalized log likelihood function as the sum of log likelihood function and roughness penalty.
 4. ‘spktime.mat’ is the matrix contains all spike times of 12 neurons.
-5. ‘fdam’ folder is for loading functional data analysis functions to create basis objects and etc.
+5. ‘fdam.zip’. Please unzip this file first. This folder is for loading functional data analysis functions to create basis objects and etc.
 
 Folder ‘neural network estimation’ contains codes and functions for estimating time-varying directed networks:
 1. ‘ode_model.R’ is the main code for estimating networks.
